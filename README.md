@@ -1,6 +1,8 @@
 # SFQEDtoolkit
 
-Original authors: Samuele Montefiori, Matteo Tamburini
+Original authors of paper: Samuele Montefiori, Matteo Tamburini
+
+Notebook by: Óscar Amaro
 
 SFQEDtoolkit: a high-performance library for the accurate modeling of strong-field QED processes in PIC and Monte Carlo codes . Peer-reviewed paper: https://www.sciencedirect.com/science/article/pii/S001046552300200X?via%3Dihub , pre-print: https://arxiv.org/abs/2301.07684, code: https://github.com/QuantumPlasma/SFQEDtoolkit
 
